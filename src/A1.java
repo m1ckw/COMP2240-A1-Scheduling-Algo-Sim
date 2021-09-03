@@ -117,20 +117,4 @@ public class A1 {
         summary.setAvgWaitTime((double)totalWaitTime/pList.getSize());
         averages.add(summary);
     }
-
-
-    
-    //printQueue(ltr.getRQ());
-    // Function for checking the queue order. 
-    // public static void printQueue(ProcessList pList) {
-    //     System.out.println("");
-    //     for (int i=0; i<pList.getSize(); i++) {
-    //         System.out.println(" Process Order: " + (i+1) + ". " 
-    //         + pList.getProcess(i).getId() + ", AT: " + pList.getProcess(i).getArrive() 
-    //         + ", Ex Time: " + pList.getProcess(i).getExSize() + ", Tickets: " + pList.getProcess(i).getTickets()
-    //         + ", Remaining Run Time: " + pList.getProcess(i).getRemainRunTime() + ", Time Processed: "
-    //         + pList.getProcess(i).getProcessedTime() + ", StartTime: " + pList.getProcess(i).getProcessStart()
-    //         + " Completion Time: " + pList.getProcess(i).getCompletionTime());
-    //     }
-    // }
 }
