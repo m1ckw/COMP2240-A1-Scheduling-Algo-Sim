@@ -1,0 +1,59 @@
+BEGIN
+
+DISP: 1
+END
+
+ID: p1
+Arrive: 0
+ExecSize: 10
+Tickets: 6
+END
+
+ID: p2
+Arrive: 2
+ExecSize: 1
+Tickets: 1
+END
+
+ID: p3
+Arrive: 6
+ExecSize: 2
+Tickets: 3
+END
+
+ID: p4
+Arrive: 10
+ExecSize: 1
+Tickets: 7
+END
+
+ID: p5
+Arrive: 14
+ExecSize: 5
+Tickets: 4
+END
+
+
+BEGINRANDOM
+134364
+847434
+763775
+255069
+495435
+449491
+651593
+788724
+93859
+28347
+835765
+432767
+762280
+2106
+445387
+721540
+228762
+945271
+901428
+ENDRANDOM
+
+EOF
