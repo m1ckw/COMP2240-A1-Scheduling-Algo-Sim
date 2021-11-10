@@ -1,4 +1,5 @@
-# COMP2240-A1-Scheduling-Algo-Sim - 70% (lost 20% due to missing Algorithm)
+# COMP2240-A1-Scheduling-Algo-Sim 
+70% (lost 20% due to missing Algorithm)
 
 TASK:
 Write a program that simulates First Come First Serve (FCFS), Shortest Remaining Time (SRT), Multi-level Feedback (Variable) (FBV) and Lottery (LTR) scheduling algorithms. 
